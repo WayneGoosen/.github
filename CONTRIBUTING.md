@@ -60,3 +60,9 @@ git push origin feature/your-feature-name
 Navigate to the original repository on GitHub and create a pull request from your fork. Provide a detailed description of your changes.
 
 Thank you for contributing!
+
+# References
+
+- [OpenSource pre-launch checklist](https://opensource.guide/starting-a-project/#your-pre-launch-checklist)
+- [GitHub guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+- [Mozilla guidelines](https://mozillascience.github.io/working-open-workshop/contributing/)
